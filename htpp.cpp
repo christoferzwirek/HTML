@@ -1,4 +1,3 @@
-//PS IS1 324 LAB09
 //Radosław Wirkus
 //wr49442@zut.edu.pl
 #include <iostream>
